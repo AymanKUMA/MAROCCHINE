@@ -564,6 +564,7 @@ button{
 	font-family:'Comfortaa',cursive;
 	font-size: 15px;
 }
+
 .resize{
 	display: flex;
 	justify-content: space-around;
